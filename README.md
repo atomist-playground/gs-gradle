@@ -1,3 +1,3 @@
 # gs-gradle
 
-Test gradle project.
+Test gradle project for skills.
